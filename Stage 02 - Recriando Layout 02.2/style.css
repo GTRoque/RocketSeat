@@ -1,0 +1,66 @@
+body {
+  
+  margin: 64px 199px 199px 240px;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Dosis';
+  font-size: 32px;
+  font-weight: 500px;
+  margin-bottom: 16px;
+  color: #3F3D56;
+}
+
+h1 span{
+  font-weight: 700px;
+  color: #EE24FF;
+
+}
+
+
+/* achei proporcional o tamanho da fonte em 18 */
+p{
+  font-family: 'open-sans';
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 50px;
+  color: #828282;
+  text-align: center;
+
+  }
+
+p span{
+  font-weight: 700;
+  color: #3F3D56;
+}
+
+#line{
+  width: 391px;
+  height: 0px;
+  margin: 0 auto 8px;
+
+  border: 1px #ECEFF2 solid;
+}
+
+a{
+  margin-top: 16px;
+
+  color: #3F3D56;
+}
+
+#footer {
+  margin-top: 64px;
+
+}
+
+#footer a + a{
+  margin-left: 84px;
+}
+  
+
+
+#wave{
+  margin-top: 40px;
+  bottom: 0px;
+}
